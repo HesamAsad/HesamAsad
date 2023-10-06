@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Hesam 👋</h1>
 <h3 align="center">A senior undergrad student and researcher in the field of machine learning!</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2344027/screenshots/5568384/ezgif.com-optimize.gif">
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/2344027/screenshots/5568384/ezgif.com-optimize.gif">
 
 <h3 align="left">My Profiles:</h3>
 <p align="left">
