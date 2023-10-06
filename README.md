@@ -34,7 +34,7 @@
 <h3 align="left">Coding Tools:</h3>
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
-<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://www.nicepng.com/png/detail/85-851058_anaconda-icon-anaconda-python-icon.png" alt="anaconda" width="40" height="40"/> </a>
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://prod-backend-company-uploads-transcend-io.s3.amazonaws.com/8d6dc27b-6eef-4afc-8e75-1e1ac922e35f/e8d51866-cab8-4ea9-9ab7-b72dea449a4f" alt="anaconda" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>     </p>
 
