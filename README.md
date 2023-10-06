@@ -5,7 +5,7 @@
 <h3 align="left">My Profiles:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hesamasadzadeh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://github.com/HesamAsad" target="blank"><img align="center" src="https://www.kindpng.com/picc/m/255-2558173_github-logo-png-transparent-png.png" alt="github" height="40" width="40" /></a>
+<a href="https://github.com/HesamAsad" target="blank"><img align="center" src="https://pasteboard.co/EIlFVYD17XLB.png" alt="github" height="40" width="40" /></a>
   
 <h3 align="left">My Main Programming Language:</h3>
 
