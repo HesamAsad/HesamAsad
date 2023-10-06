@@ -29,7 +29,7 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://lightning.ai/" target="_blank" rel="noreferrer"> <img src="https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1603396953043-5f10cb46636b661bdc42318b.png?w=200&h=200&f=face" alt="lightning" width="40" height="40"> </a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src=https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="huggingface" width="40" height="40"> </a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="huggingface" width="40" height="40"> </a>
 
 <h3 align="left">Coding Tools:</h3>
 
